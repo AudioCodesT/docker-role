@@ -1,2 +1,2 @@
 ---
-# defaults file for docker-role
+docker_remove: false
